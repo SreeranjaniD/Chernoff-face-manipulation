@@ -1,5 +1,5 @@
 # Chernoff-face-manipulation
-Chernoff face manipulation in Mathematica.
+Chernoff face manipulation using Image Processing in Mathematica.
 <br/>
 <br/>
 A Chernoff face is a simple sketch of a human face that is parameterized by a few variables. By manipulating the variables, it is possible to achieve a wide range of expressions. Program is written to manipulate various features of an image with sliders as well as make it react in response to Hip hop music.
